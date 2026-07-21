@@ -1,0 +1,56 @@
+.cardContainer {
+}
+.cardWrap {
+  /* display: flex;
+  flex-wrap: wrap;
+  flex-direction: column; */
+}
+
+.cardImage {
+  border-radius: 14px;
+  width: 276px;
+  height: 268px;
+}
+
+.carDescr {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.25;
+  color: #101828;
+}
+.carModel {
+  color: #3470ff;
+}
+.cardWrap {
+  margin-top: 16px;
+  display: flex;
+  justify-content: space-between;
+}
+.carLocation {
+  margin-top: 8px;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 1.33;
+  color: #8d929a;
+}
+
+.separator {
+  width: 1px;
+  height: 16px;
+  /* stroke-width: 1px; */
+  background-color: #dadde1;
+}
+.cardButton {
+  display: inline-block;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 1.25;
+  color: #ffffff;
+  border-radius: 12px;
+  width: 276px;
+  height: 44px;
+  background-color: #3470ff;
+  margin-top: 28px;
+  padding: 12px 99px;
+}

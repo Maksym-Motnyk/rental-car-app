@@ -1,0 +1,40 @@
+.heroImg {
+  /* min-height: 100vh; */
+  height: 700px;
+  background-image: url('./Hero-bg.png');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.heroContainer {
+  padding-top: 436px;
+}
+.heroTitle {
+  font-weight: 700;
+  font-size: 60px;
+  line-height: 1.2;
+  text-align: center;
+  margin-bottom: 16px;
+  color: #ffffff;
+}
+.heroText {
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 1.33;
+  text-align: center;
+  color: #ffffff;
+  margin-bottom: 40px;
+}
+.heroBtn {
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 1.25;
+  color: #ffffff;
+  border-radius: 12px;
+  background-color: #3470ff;
+  border: none;
+  display: block;
+  margin: 0 auto;
+  width: 276px;
+  height: 44px;
+}

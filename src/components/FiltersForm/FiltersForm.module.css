@@ -1,0 +1,67 @@
+.catalogContainer {
+  padding-top: 84px;
+  margin-bottom: 56px;
+  /* max-width: 924px; */
+  /* padding: 26px 15px; */
+  /* margin: 0 auto; */
+}
+.selectWrap {
+  display: flex;
+  gap: 16px;
+  justify-content: center;
+  align-items: center;
+}
+.label {
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 1.33;
+  color: #8d929a;
+}
+.selectContainer {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+.catalogSelect {
+  border-radius: 12px;
+  padding: 12px 16px;
+  width: 204px;
+  height: 44px;
+  color: #101828;
+  background-color: #f7f7f7;
+  border: none;
+}
+.catalogBtn {
+  border-radius: 12px;
+  width: 156px;
+  height: 44px;
+  background-color: #3470ff;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 1.25;
+  color: #ffffff;
+  border: none;
+  margin-left: 16px;
+}
+.catalogInput {
+  border-radius: 12px 0 0 12px;
+  width: 160px;
+  height: 44px;
+  border: none;
+  background-color: #f7f7f7;
+  border-right: 1px solid #dadde1;
+  padding-left: 24px;
+}
+.catalogInputApp {
+  border-radius: 0 12px 12px 0;
+  width: 160px;
+  height: 44px;
+  background-color: #f7f7f7;
+  border: none;
+  padding-left: 24px;
+}
+.inputContainer {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}

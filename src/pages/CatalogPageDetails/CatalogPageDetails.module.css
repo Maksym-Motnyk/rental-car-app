@@ -1,0 +1,75 @@
+.detailsWrap {
+  padding-top: 84px;
+  display: flex;
+  gap: 72px;
+}
+
+.detailsImg {
+  border-radius: 19px;
+  width: 640px;
+  height: 512px;
+}
+.detailsContainer {
+}
+.detailsTitle {
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 1.33;
+  color: #101828;
+  display: flex;
+  align-items: center;
+  margin-bottom: 8px;
+}
+.detailsId {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.25;
+  color: #8d929a;
+  margin-left: 16px;
+}
+.detailsLocation {
+  display: flex;
+  align-items: center;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.25;
+  color: #101828;
+  margin-bottom: 16px;
+}
+.detailsMileage {
+  margin-left: 16px;
+}
+.detailsPrice {
+  color: #3470ff;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 1.33;
+  margin-bottom: 32px;
+}
+.detailsDescr {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.25;
+  color: #101828;
+  margin-bottom: 68px;
+}
+.detailsListWrap {
+  margin-bottom: 110px;
+}
+.detailsListTitle {
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 1.2;
+  color: #101828;
+  margin-bottom: 20px;
+}
+.detailsList {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+.detailsListItem {
+  display: flex;
+  align-items: center;
+  gap: 2px;
+}
